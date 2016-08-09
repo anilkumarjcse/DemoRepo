@@ -17,6 +17,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.bak
+## Commented from DEV
 
 # Windows shortcuts
 *.lnk
